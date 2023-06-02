@@ -1,0 +1,4 @@
+﻿  MakeFraction.cpp
+C:\Users\parkh\source\repos\MakeFraction\MakeFraction\MakeFraction.cpp(27,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\parkh\source\repos\MakeFraction\MakeFraction\MakeFraction.cpp(72,13): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+  MakeFraction.vcxproj -> C:\Users\parkh\source\repos\MakeFraction\x64\Debug\MakeFraction.exe
